@@ -1,5 +1,5 @@
 # Cro-CoV-Texts
-Sample of texts scraped from the Croatian online news portals related to COVID-19.
+Sample of texts (in form of unigrams), scraped from the Croatian online news portals related to COVID-19.
 
 **Please cite:**
 > Beliga S, Martinčić-Ipšić S, Matešić M, Petrijevčanin Vuksanović I, Meštrović A
